@@ -1,0 +1,16 @@
+
+1. Best links to setup SystemC on Visual Studio 
+
+	https://stackoverflow.com/questions/41990606/installing-systemc-for-vs2013   --> ggod page 
+	
+	https://www.youtube.com/watch?v=43NfUkhQiWg&t=608s   --> Video to see before installation
+	
+	https://stackoverflow.com/search?q=user:1503413+systemc&s=511bd0c6-0a89-42ef-8459-b331c9fbe096     --> good page
+	
+	
+	
+	
+	How to add a new device in QEMU source code 
+	
+	--> https://stackoverflow.com/questions/28315265/how-to-add-a-new-device-in-qemu-source-code
+	
